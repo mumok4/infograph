@@ -1,2 +1,2 @@
 # Инфографика
-- Сравнение персонажей
+- (Dash)[https://github.com/mumok4/infograph/tree/main/dash]
